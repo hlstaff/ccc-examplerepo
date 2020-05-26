@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// gcc -m32 -o program remote.c
+
 const char* FLAG = "Flag: exampleFlag18291";
 const char* PASS = "badpass123";
 

@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// gcc -m32 -o program local.c
+
 const char* FLAG = "Placeholder flag - submit to the network service for the real flag.";
 const char* PASS = "badpass123";
 
