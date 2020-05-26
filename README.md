@@ -36,4 +36,4 @@ The flag is not in the local version of the binary, only the remote version has 
 
 `nc <ip> <port>`
 
-and then send `badpass123` to ge the flag.
+and then send `badpass123` to get the flag.
