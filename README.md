@@ -9,7 +9,7 @@ Flag: exampleFlag18291
 ## Briefing
 Download the files at [url] and use them to access the network service on [ip] port: [port] to get the flag.
 
-By <username>.
+By [username].
 
 ## Infrastructure
 What infrastructure is necessary to make your challenge function?
