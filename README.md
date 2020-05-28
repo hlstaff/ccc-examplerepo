@@ -1,4 +1,4 @@
-<email address>
+[email address]
 
 # Challenge Title
 This is an example of how challenge submissions should be structured.
@@ -7,7 +7,7 @@ This is an example of how challenge submissions should be structured.
 Flag: exampleFlag18291
 
 ## Briefing
-Download the files at <url> and use them to access the network service on <ip> port: <port> to get the flag.
+Download the files at [url] and use them to access the network service on [ip] port: [port] to get the flag.
 
 By <username>.
 
